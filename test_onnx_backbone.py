@@ -14,7 +14,7 @@ from . import models_original
 assert _onnx_opset_version == 11
 
 
-class TestONNXBackbone(unittest.TestCase):
+class TestONNX_Backbone(unittest.TestCase):
 
 
     def setUp(self):
